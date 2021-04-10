@@ -1,0 +1,6 @@
+CURD is an acronym that comes from the world of computer prograamming and refers to the four functions, 
+that are considered necessary to implement a persistent storage application.
+create
+read
+update
+delete
